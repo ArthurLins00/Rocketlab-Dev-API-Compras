@@ -9,7 +9,7 @@ import { ProductsModule } from '../products/products.module';
 @Module({
   imports: [
     TypeOrmModule.forFeature([Cart, CartItem]),
-    ProductsModule, // 👈 Importação ESSENCIAL
+    ProductsModule,
   ],
   controllers: [CartController],
   providers: [CartService],
