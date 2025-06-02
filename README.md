@@ -1,6 +1,6 @@
 # 🚀 RocketLab DEV - Sistema de Compras API
 
-Projeto de backend para e-commerce desenvolvido com **NestJS + TypeScript + Swagger + pnpm**.
+Projeto de backend para e-commerce desenvolvido com **NestJS + TypeScript + Swagger + pnpm**.  
 A API oferece funcionalidades completas para gerenciamento de produtos e carrinho de compras, com documentação automática via Swagger UI.
 
 ---
