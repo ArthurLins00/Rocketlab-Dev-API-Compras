@@ -26,7 +26,7 @@ http://localhost:3000/api
 ## 🛠️ Stack Tecnológica
 
 - [NestJS](https://nestjs.com/) (Framework Node.js)
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/) (Linguagem principal)
 - [Swagger](https://swagger.io/) (Documentação de API)
 - [class-validator](https://github.com/typestack/class-validator) (Validação dos DTOs como `CreateProductDto`)
 - [pnpm](https://pnpm.io/) (Gerenciador de pacotes)
